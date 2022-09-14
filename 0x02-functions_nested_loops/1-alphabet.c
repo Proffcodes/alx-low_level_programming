@@ -1,4 +1,4 @@
-#include "main.h"
+#include8 <stdio.h>
 /**
  * print_alphabet - function to print abc
  *
