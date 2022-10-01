@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c -wall -wrror -wextra *.c
+ar -rc liball.a .c
